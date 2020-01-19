@@ -1,0 +1,11 @@
+Z:\proj\cs-order-linq\cs-order-linq\cs-order-linq\bin\Debug\netcoreapp3.1\cs-order-linq.exe
+Z:\proj\cs-order-linq\cs-order-linq\cs-order-linq\bin\Debug\netcoreapp3.1\cs-order-linq.deps.json
+Z:\proj\cs-order-linq\cs-order-linq\cs-order-linq\bin\Debug\netcoreapp3.1\cs-order-linq.runtimeconfig.json
+Z:\proj\cs-order-linq\cs-order-linq\cs-order-linq\bin\Debug\netcoreapp3.1\cs-order-linq.runtimeconfig.dev.json
+Z:\proj\cs-order-linq\cs-order-linq\cs-order-linq\bin\Debug\netcoreapp3.1\cs-order-linq.dll
+Z:\proj\cs-order-linq\cs-order-linq\cs-order-linq\bin\Debug\netcoreapp3.1\cs-order-linq.pdb
+Z:\proj\cs-order-linq\cs-order-linq\cs-order-linq\obj\Debug\netcoreapp3.1\cs-order-linq.csprojAssemblyReference.cache
+Z:\proj\cs-order-linq\cs-order-linq\cs-order-linq\obj\Debug\netcoreapp3.1\cs-order-linq.AssemblyInfoInputs.cache
+Z:\proj\cs-order-linq\cs-order-linq\cs-order-linq\obj\Debug\netcoreapp3.1\cs-order-linq.AssemblyInfo.cs
+Z:\proj\cs-order-linq\cs-order-linq\cs-order-linq\obj\Debug\netcoreapp3.1\cs-order-linq.dll
+Z:\proj\cs-order-linq\cs-order-linq\cs-order-linq\obj\Debug\netcoreapp3.1\cs-order-linq.pdb
